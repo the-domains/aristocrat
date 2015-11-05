@@ -1,0 +1,23 @@
+name: Aristocrat
+favicon: null
+layout_spectrum: 0.3196706131566316
+typography_spectrum: 0.8843356317374855
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7390813436359167
+  lightness: 0.813140714308247
+  saturation: 0.8638895782642066
+  rhythmicContrast: 0.6708981085103005
+purpose: []
